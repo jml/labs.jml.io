@@ -1,5 +1,11 @@
 # labs.jml.io
 
+Experimental repository for a Kubernetes cluster for running jml's personal experiments.
+
+Public for now, but may become private later.
+
+## Preliminaries
+
 ```console
 $ export PROJECT_ID=holborn-1248
 ```
